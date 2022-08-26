@@ -1,4 +1,5 @@
-BSc in CS
+Computer Science Student
+University of haifa
 
 <!---
 Jerryaa98/Jerryaa98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
